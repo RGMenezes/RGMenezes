@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar, mergulhar no código e descobrir as soluçõe
 
 <br/>
 
-[![portfólio](./assets/portfolio.png)](https://rgmenezes.github.io/portfolio/) [![projetos completos](./assets/projetos_completos.png)](https://rgmenezes.github.io/projetos-completos/) [![estudos](./assets/estudos.png)](https://rgmenezes.github.io/estudos/) [![testes](./assets/testes.png)](https://rgmenezes.github.io/teste/)
+[![portfólio](./assets/portfolio.png)](https://rgmenezes.github.io/portfolio/) [![estudos](./assets/estudos.png)](https://rgmenezes.github.io/estudos/) [![testes](./assets/testes.png)](https://rgmenezes.github.io/teste/)
 
 <br/><br/>
 
