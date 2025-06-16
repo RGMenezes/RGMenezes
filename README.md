@@ -6,7 +6,7 @@ Seja muito bem-vindo(a) ao meu GitHub!
 
 É um prazer receber-lo(a) neste espaço onde compartilho meus projetos. Aqui você encontrará uma jornada de aprendizado e desenvolvimento, representada pelos meus repositórios.
 
-Sinta-se à vontade para explorar, mergulhar no código e descobrir as soluções que construir. Seu feedback é valioso para mim, então não hesite em compartilhar suas opiniões e sugestões.
+Sinta-se à vontade para explorar, mergulhar no código e descobrir as soluções que construi. Seu feedback é valioso para mim, então não hesite em compartilhar suas opiniões e sugestões.
 
 <br/><br/>
 
