@@ -25,13 +25,4 @@ Sinta-se à vontade para explorar, mergulhar no código e descobrir as soluçõe
 
 <br/><br/>
 
-
-## Projetos 🚀
-
-<br/>
-
-[![portfólio](./assets/portfolio.png)](https://rgmenezes.github.io/portfolio/) [![estudos](./assets/divisor-de-salario.png)](https://divisordesalario.netlify.app)
-
-<br/><br/>
-
 Nunca deixe de perseguir seus sonhos!
