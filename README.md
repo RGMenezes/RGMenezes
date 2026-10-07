@@ -21,7 +21,7 @@ Atualmente evoluo um sistema institucional em **Ruby on Rails** no IFF e constru
 - [ConsulFast](https://rgmenezes.vercel.app) — Front-end de marketplace de consultórios
 - [Guia BSI](https://github.com/RGMenezes/guiabsi) — Plataforma de orientação para alunos do IFF
 - [Construtor de Currículos](https://github.com/RGMenezes/ConstrutorDeCurriculos)
-- [Training Timer](https://github.com/RGMenezes/TrainingTimerAppRN)
+- [Training Timer](https://rgmenezes.vercel.app/projects/training-timer)
 
 ### 📊 GitHub Stats
 ![Rafael Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=RGMenezes&show_icons=true&theme=transparent)
