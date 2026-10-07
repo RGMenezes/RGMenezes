@@ -23,8 +23,7 @@ Atualmente evoluo um sistema institucional em **Ruby on Rails** no IFF e constru
 - [Construtor de Currículos](https://github.com/RGMenezes/ConstrutorDeCurriculos)
 - [Training Timer](https://rgmenezes.vercel.app/projects/training-timer)
 
-### 📊 GitHub Stats
-![Rafael Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=RGMenezes&show_icons=true&theme=transparent)
+#### 📊 Linguagens em destaque
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RGMenezes&layout=compact&theme=transparent)](https://github.com/RGMenezes)
 
 ### 🔗 Links
